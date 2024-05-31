@@ -1,0 +1,441 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Wuthering Waves",
+      "publisher": "Nikunj Rathod",
+      "tray_image_file": "tray.png",
+      "publisher_email": "nikunjrathod3011@gmail.com",
+      "publisher_website": "nikunj3011.github.io",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "T_ChatEmo_A_01.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_02.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_03.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_04.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_05.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_06.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_07.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_A_08.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_05.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+
+        {
+          "image_file": "T_ChatEmo_B_06.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_07.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_B_08.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_05.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_06.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_C_07.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+
+        {
+          "image_file": "T_ChatEmo_C_08.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier": "2",
+      "name": "Wuthering Waves",
+      "publisher": "Nikunj Rathod",
+      "tray_image_file": "tray.png",
+      "publisher_email": "nikunjrathod3011@gmail.com",
+      "publisher_website": "nikunj3011.github.io",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "T_ChatEmo_D_01.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_D_02.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_D_03.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_D_04.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_E_01.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_E_02.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_E_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_E_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_F_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_F_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_F_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_F_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_G_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+
+        {
+          "image_file": "T_ChatEmo_G_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_G_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_G_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier": "3",
+      "name": "Wuthering Waves",
+      "publisher": "Nikunj Rathod",
+      "tray_image_file": "tray.png",
+      "publisher_email": "nikunjrathod3011@gmail.com",
+      "publisher_website": "nikunj3011.github.io",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "T_ChatEmo_H_01.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_H_02.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_H_03.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_H_04.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_I_01.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_I_02.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_I_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_I_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_J_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_J_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_J_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_J_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_K_01.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+
+        {
+          "image_file": "T_ChatEmo_K_02.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_K_03.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "T_ChatEmo_K_04.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        }
+      ]
+    }
+  ]
+}
+

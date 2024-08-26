@@ -8,13 +8,13 @@ android {
             keyPassword '123'
         }
     }
-    compileSdkVersion 33
+    compileSdkVersion 34
     defaultConfig {
         applicationId "com.nikunj.WutheringWavesStickers"
-        minSdkVersion 19
-        targetSdkVersion 33
-        versionCode 3
-        versionName "3"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 8
+        versionName "8"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.

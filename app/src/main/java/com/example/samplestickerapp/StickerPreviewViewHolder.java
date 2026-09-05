@@ -6,16 +6,15 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package com.evolveddna.wuwastickers;
 
 import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
-
-import com.facebook.drawee.view.SimpleDraweeView;
+import android.widget.ImageView;
 
 public class StickerPreviewViewHolder extends RecyclerView.ViewHolder {
 
-    public SimpleDraweeView stickerPreviewView;
+    public ImageView stickerPreviewView;
 
     StickerPreviewViewHolder(final View itemView) {
         super(itemView);

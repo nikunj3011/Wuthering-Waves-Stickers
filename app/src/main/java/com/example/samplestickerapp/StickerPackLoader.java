@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package com.evolveddna.wuwastickers;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -22,18 +22,18 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-import static com.example.samplestickerapp.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.PUBLISHER_EMAIL;
-import static com.example.samplestickerapp.StickerContentProvider.PUBLISHER_WEBSITE;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
-import static com.example.samplestickerapp.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
+import static com.evolveddna.wuwastickers.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
+import static com.evolveddna.wuwastickers.StickerContentProvider.PUBLISHER_EMAIL;
+import static com.evolveddna.wuwastickers.StickerContentProvider.PUBLISHER_WEBSITE;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
+import static com.evolveddna.wuwastickers.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
 
 public class StickerPackLoader {
 

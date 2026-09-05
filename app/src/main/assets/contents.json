@@ -4,438 +4,1919 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Wuthering Waves",
-      "publisher": "Nikunj Rathod",
+      "name": "Wuthering Waves - Pack 1",
+      "publisher": "Kuro Games",
       "tray_image_file": "tray.png",
-      "publisher_email": "nikunjrathod3011@gmail.com",
-      "publisher_website": "nikunj3011.github.io",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "T_ChatEmo_A_01.webp",
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_01.png.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "👍",
+            "😭"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_02.webp",
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_02.png.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "🥰",
+            "🤣"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_03.webp",
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_03.png.webp",
           "emojis": [
-            "😆",
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_04.png.webp",
+          "emojis": [
+            "😘",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_05.png.webp",
+          "emojis": [
+            "😍",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_06.png.webp",
+          "emojis": [
+            "🤣",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_07.png.webp",
+          "emojis": [
+            "😊",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "1_Yangyang_Sticker_Slice_of_Life_01_08.png.webp",
+          "emojis": [
+            "😊",
             "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_04.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_01.png.webp",
           "emojis": [
-            "😩",
-            "😰"
+            "🤣",
+            "😭"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_05.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_A_06.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_02.png.webp",
           "emojis": [
             "😍",
-            "♥"
+            "🥰"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_07.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_03.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "🥰",
+            "😍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_A_08.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_04.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😍",
+            "😊"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_01.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_05.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😂",
+            "❤️"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_02.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_06.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😭",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_03.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_07.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "🥰",
+            "🙏"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_04.webp",
+          "image_file": "1_Chixia_Sticker_Slice_of_Life_01_08.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😭",
+            "👍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_05.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_01.png.webp",
           "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-
-        {
-          "image_file": "T_ChatEmo_B_06.webp",
-          "emojis": [
-            "💔",
-            "👎"
+            "😂",
+            "🥰"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_07.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_02.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "🙏"
           ]
         },
         {
-          "image_file": "T_ChatEmo_B_08.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_03.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "👍",
+            "😊"
           ]
         },
         {
-          "image_file": "T_ChatEmo_C_01.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_04.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😘",
+            "❤️"
           ]
         },
         {
-          "image_file": "T_ChatEmo_C_02.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_05.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😊",
+            "❤️"
           ]
         },
         {
-          "image_file": "T_ChatEmo_C_03.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_06.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "👍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_C_04.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_07.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_C_05.webp",
+          "image_file": "1_Baizhi_Sticker_Slice_of_Life_01_08.png.webp",
           "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_C_06.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_C_07.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-
-        {
-          "image_file": "T_ChatEmo_C_08.webp",
-          "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "🥰"
           ]
         }
       ]
     },
-
     {
       "identifier": "2",
-      "name": "Wuthering Waves",
-      "publisher": "Nikunj Rathod",
+      "name": "Wuthering Waves - Pack 2",
+      "publisher": "Kuro Games",
       "tray_image_file": "tray.png",
-      "publisher_email": "nikunjrathod3011@gmail.com",
-      "publisher_website": "nikunj3011.github.io",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "T_ChatEmo_D_01.webp",
+          "image_file": "2_Rover__Sticker_Slice_of_Life_02_01.png.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "🥰",
+            "😘"
           ]
         },
         {
-          "image_file": "T_ChatEmo_D_02.webp",
+          "image_file": "2_Rover__Sticker_Slice_of_Life_02_02.png.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "❤️",
+            "😍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_D_03.webp",
+          "image_file": "2_Rover__Sticker_Slice_of_Life_02_03.png.webp",
           "emojis": [
-            "😆",
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "2_Rover__Sticker_Slice_of_Life_02_04.png.webp",
+          "emojis": [
+            "❤️",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "2_Rover_Sticker_Slice_of_Life_02_01.png.webp",
+          "emojis": [
+            "🙏",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "2_Rover_Sticker_Slice_of_Life_02_02.png.webp",
+          "emojis": [
+            "🤣",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "2_Rover_Sticker_Slice_of_Life_02_03.png.webp",
+          "emojis": [
+            "😭",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "2_Rover_Sticker_Slice_of_Life_02_04.png.webp",
+          "emojis": [
+            "😍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "2_Danjin_Sticker_Slice_of_Life_02_01.png.webp",
+          "emojis": [
+            "🥰",
             "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_D_04.webp",
+          "image_file": "2_Danjin_Sticker_Slice_of_Life_02_02.png.webp",
           "emojis": [
-            "😩",
-            "😰"
+            "🤣",
+            "😭"
           ]
         },
         {
-          "image_file": "T_ChatEmo_E_01.webp",
+          "image_file": "2_Danjin_Sticker_Slice_of_Life_02_03.png.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "👍",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_E_02.webp",
+          "image_file": "2_Danjin_Sticker_Slice_of_Life_02_04.png.webp",
+          "emojis": [
+            "😘",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "2_Jiyan_Sticker_Slice_of_Life_02_01.png.webp",
           "emojis": [
             "😍",
-            "♥"
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_E_03.webp",
+          "image_file": "2_Jiyan_Sticker_Slice_of_Life_02_02.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "😘"
           ]
         },
         {
-          "image_file": "T_ChatEmo_E_04.webp",
+          "image_file": "2_Jiyan_Sticker_Slice_of_Life_02_03.png.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😘",
+            "👍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_F_01.webp",
+          "image_file": "2_Jiyan_Sticker_Slice_of_Life_02_04.png.webp",
           "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_F_02.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_F_03.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_F_04.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_G_01.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-
-        {
-          "image_file": "T_ChatEmo_G_02.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_G_03.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "T_ChatEmo_G_04.webp",
-          "emojis": [
-            "💔",
-            "👎"
+            "👍",
+            "🙏"
           ]
         }
       ]
     },
-
     {
       "identifier": "3",
-      "name": "Wuthering Waves",
-      "publisher": "Nikunj Rathod",
+      "name": "Wuthering Waves - Pack 3",
+      "publisher": "Kuro Games",
       "tray_image_file": "tray.png",
-      "publisher_email": "nikunjrathod3011@gmail.com",
-      "publisher_website": "nikunj3011.github.io",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "T_ChatEmo_H_01.webp",
+          "image_file": "3_Aalto_Sticker_Slice_of_Life_03_01.png.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "😊",
+            "🤣"
           ]
         },
         {
-          "image_file": "T_ChatEmo_H_02.webp",
+          "image_file": "3_Aalto_Sticker_Slice_of_Life_03_02.png.webp",
           "emojis": [
-            "😄",
-            "😀"
+            "😍",
+            "🥰"
           ]
         },
         {
-          "image_file": "T_ChatEmo_H_03.webp",
+          "image_file": "3_Aalto_Sticker_Slice_of_Life_03_03.png.webp",
           "emojis": [
-            "😆",
+            "😊",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "3_Aalto_Sticker_Slice_of_Life_03_04.png.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "3_Encore_Sticker_Slice_of_Life_03_01.png.webp",
+          "emojis": [
+            "😭",
             "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_H_04.webp",
+          "image_file": "3_Encore_Sticker_Slice_of_Life_03_02.png.webp",
           "emojis": [
-            "😩",
-            "😰"
+            "❤️",
+            "😊"
           ]
         },
         {
-          "image_file": "T_ChatEmo_I_01.webp",
+          "image_file": "3_Encore_Sticker_Slice_of_Life_03_03.png.webp",
+          "emojis": [
+            "😂",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "3_Encore_Sticker_Slice_of_Life_03_04.png.webp",
+          "emojis": [
+            "😂",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "3_Sanhua_Sticker_Slice_of_Life_03_01.png.webp",
+          "emojis": [
+            "🥰",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "3_Sanhua_Sticker_Slice_of_Life_03_02.png.webp",
+          "emojis": [
+            "🤣",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "3_Sanhua_Sticker_Slice_of_Life_03_03.png.webp",
+          "emojis": [
+            "❤️",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "3_Sanhua_Sticker_Slice_of_Life_03_04.png.webp",
+          "emojis": [
+            "🤣",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "3_Mortefi_Sticker_Slice_of_Life_03_01.png.webp",
           "emojis": [
             "😭",
-            "💧"
+            "🥰"
           ]
         },
         {
-          "image_file": "T_ChatEmo_I_02.webp",
+          "image_file": "3_Mortefi_Sticker_Slice_of_Life_03_02.png.webp",
+          "emojis": [
+            "❤️",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "3_Mortefi_Sticker_Slice_of_Life_03_03.png.webp",
+          "emojis": [
+            "👍",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "3_Mortefi_Sticker_Slice_of_Life_03_04.png.webp",
+          "emojis": [
+            "😂",
+            "😊"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Wuthering Waves - Pack 4",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "4_Rover_Sticker_Slice_of_Life_04_01.gif.webp",
+          "emojis": [
+            "🥰",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "4_Yangyang_Sticker_Slice_of_Life_04_01.gif.webp",
+          "emojis": [
+            "😭",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4_Chixia_Sticker_Slice_of_Life_04_01.gif.webp",
+          "emojis": [
+            "😂",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4_Baizhi_Sticker_Slice_of_Life_04_01.gif.webp",
+          "emojis": [
+            "❤️",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "4_Jiyan_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
             "😍",
-            "♥"
+            "👍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_I_03.webp",
+          "image_file": "4_Aalto_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😘",
+            "😭"
           ]
         },
         {
-          "image_file": "T_ChatEmo_I_04.webp",
+          "image_file": "4_Encore_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😍",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_J_01.webp",
+          "image_file": "4_Jianxin_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "🙏",
+            "😍"
           ]
         },
         {
-          "image_file": "T_ChatEmo_J_02.webp",
+          "image_file": "4_Taoqi_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😊",
+            "🤣"
           ]
         },
         {
-          "image_file": "T_ChatEmo_J_03.webp",
+          "image_file": "4_Taoqi_Sticker_Slice_of_Life_04_02.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😍",
+            "🙏"
           ]
         },
         {
-          "image_file": "T_ChatEmo_J_04.webp",
+          "image_file": "4_Taoqi_Sticker_Slice_of_Life_04_03.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "😊",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_K_01.webp",
+          "image_file": "4_Taoqi_Sticker_Slice_of_Life_04_04.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-
-        {
-          "image_file": "T_ChatEmo_K_02.webp",
-          "emojis": [
-            "💔",
-            "👎"
+            "😭",
+            "😂"
           ]
         },
         {
-          "image_file": "T_ChatEmo_K_03.webp",
+          "image_file": "4_Yuanwu_Sticker_Slice_of_Life_04_01.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "👍",
+            "😭"
           ]
         },
         {
-          "image_file": "T_ChatEmo_K_04.webp",
+          "image_file": "4_Yuanwu_Sticker_Slice_of_Life_04_02.gif.webp",
           "emojis": [
-            "💔",
-            "👎"
+            "❤️",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "4_Yuanwu_Sticker_Slice_of_Life_04_03.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "4_Yuanwu_Sticker_Slice_of_Life_04_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "👍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Wuthering Waves - Pack 5",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "5_Verina_Sticker_Slice_of_Life_05_01.gif.webp",
+          "emojis": [
+            "😘",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "5_Verina_Sticker_Slice_of_Life_05_02.gif.webp",
+          "emojis": [
+            "👍",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "5_Verina_Sticker_Slice_of_Life_05_03.gif.webp",
+          "emojis": [
+            "😭",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "5_Verina_Sticker_Slice_of_Life_05_04.gif.webp",
+          "emojis": [
+            "😊",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "5_Lingyang_Sticker_Slice_of_Life_05_01.gif.webp",
+          "emojis": [
+            "🥰",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "5_Lingyang_Sticker_Slice_of_Life_05_02.gif.webp",
+          "emojis": [
+            "😭",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "5_Lingyang_Sticker_Slice_of_Life_05_03.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "5_Lingyang_Sticker_Slice_of_Life_05_04.gif.webp",
+          "emojis": [
+            "😂",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "5_Calcharo_Sticker_Slice_of_Life_05_01.gif.webp",
+          "emojis": [
+            "😍",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "5_Calcharo_Sticker_Slice_of_Life_05_02.gif.webp",
+          "emojis": [
+            "😍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "5_Calcharo_Sticker_Slice_of_Life_05_03.gif.webp",
+          "emojis": [
+            "🙏",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "5_Calcharo_Sticker_Slice_of_Life_05_04.gif.webp",
+          "emojis": [
+            "😍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "5_Jianxin_Sticker_Slice_of_Life_05_01.gif.webp",
+          "emojis": [
+            "😍",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "5_Jianxin_Sticker_Slice_of_Life_05_02.gif.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "5_Jianxin_Sticker_Slice_of_Life_05_03.gif.webp",
+          "emojis": [
+            "🥰",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "5_Jianxin_Sticker_Slice_of_Life_05_04.gif.webp",
+          "emojis": [
+            "😍",
+            "🤣"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Wuthering Waves - Pack 6",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "6_Jinhsi_Sticker_Slice_of_Life_06_01.gif.webp",
+          "emojis": [
+            "🙏",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "6_Jinhsi_Sticker_Slice_of_Life_06_02.gif.webp",
+          "emojis": [
+            "🥰",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6_Jinhsi_Sticker_Slice_of_Life_01_03.gif.webp",
+          "emojis": [
+            "🤣",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "6_Jinhsi_Sticker_Slice_of_Life_06_04.gif.webp",
+          "emojis": [
+            "🤣",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6_Changli_Sticker_Slice_of_Life_06_01.gif.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6_Changli_Sticker_Slice_of_Life_06_02.gif.webp",
+          "emojis": [
+            "😂",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6_Changli_Sticker_Slice_of_Life_06_03.gif.webp",
+          "emojis": [
+            "😭",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6_Changli_Sticker_Slice_of_Life_06_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "6_Jiyan_Sticker_Slice_of_Life_06_01.gif.webp",
+          "emojis": [
+            "😭",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "6_Jiyan_Sticker_Slice_of_Life_06_02.gif.webp",
+          "emojis": [
+            "🤣",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "6_Jiyan_Sticker_Slice_of_Life_06_03.gif.webp",
+          "emojis": [
+            "🤣",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "6_Jiyan_Sticker_Slice_of_Life_06_04.gif.webp",
+          "emojis": [
+            "😘",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "6_Yinlin_Sticker_Slice_of_Life_06_01.gif.webp",
+          "emojis": [
+            "🙏",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6_Yinlin_Sticker_Slice_of_Life_06_02.gif.webp",
+          "emojis": [
+            "🤣",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "6_Yinlin_Sticker_Slice_of_Life_06_03.gif.webp",
+          "emojis": [
+            "😊",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6_Yinlin_Sticker_Slice_of_Life_06_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "😭"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Wuthering Waves - Pack 7",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "7_ClangBangShakehead.gif.webp",
+          "emojis": [
+            "👍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangHappyDance.gif.webp",
+          "emojis": [
+            "🤣",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangBOO.gif.webp",
+          "emojis": [
+            "👍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangHighFive.gif.webp",
+          "emojis": [
+            "🥰",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangAngry.gif.webp",
+          "emojis": [
+            "😘",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangThoughts.gif.webp",
+          "emojis": [
+            "😊",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangRun.gif.webp",
+          "emojis": [
+            "😂",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangRoll.gif.webp",
+          "emojis": [
+            "🥰",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangBounce.gif.webp",
+          "emojis": [
+            "🤣",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangEmo.gif.webp",
+          "emojis": [
+            "😂",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "7_ClangBangBroken.gif.webp",
+          "emojis": [
+            "😍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "7_EchoSquad.gif.webp",
+          "emojis": [
+            "😭",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7_WhiffWhaffExcited.gif.webp",
+          "emojis": [
+            "👍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "7_SnipSnapWave.gif.webp",
+          "emojis": [
+            "🤣",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "7_ZigZagExcited.gif.webp",
+          "emojis": [
+            "😍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "7_TickTackStrong.gif.webp",
+          "emojis": [
+            "🥰",
+            "😊"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Wuthering Waves - Pack 8",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "8_ZaniWhat.png.webp",
+          "emojis": [
+            "😊",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "8_ZaniOnMyWay.png.webp",
+          "emojis": [
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "8_ZaniOK.png.webp",
+          "emojis": [
+            "😍",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "8_ZaniOvertime.png.webp",
+          "emojis": [
+            "😊",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "8_ZaniHuh.png.webp",
+          "emojis": [
+            "🥰",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "8_ZaniTimeout.png.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "8_ZaniBurnout.png.webp",
+          "emojis": [
+            "😘",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "8_ZaniSnap.png.webp",
+          "emojis": [
+            "😍",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "8_ZaniSleep.png.webp",
+          "emojis": [
+            "😘",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "8_ZaniAtWork.png.webp",
+          "emojis": [
+            "🙏",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "8_ZaniQuick.png.webp",
+          "emojis": [
+            "😍",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "8_ZaniImfine.png.webp",
+          "emojis": [
+            "🥰",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "8_ZaniLowBatt.png.webp",
+          "emojis": [
+            "😘",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "8_ZaniSAT.png.webp",
+          "emojis": [
+            "👍",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "8_ZaniMON.png.webp",
+          "emojis": [
+            "😭",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "8_ZaniSilence.png.webp",
+          "emojis": [
+            "😘",
+            "❤️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Wuthering Waves - Pack 9",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "9_ShorekeeperWaiting.gif.webp",
+          "emojis": [
+            "👍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "9_ShorekeeperFlower.gif.webp",
+          "emojis": [
+            "😘",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9_ShorekeeperButterfly.gif.webp",
+          "emojis": [
+            "🥰",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9_ShorekeeperPiano.gif.webp",
+          "emojis": [
+            "😘",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "9_ZhezhiBrush.gif.webp",
+          "emojis": [
+            "🤣",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "9_ZhezhiBroke.gif.webp",
+          "emojis": [
+            "🙏",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9_ZhezhiBlushing.gif.webp",
+          "emojis": [
+            "👍",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "9_ZhezhiDeadline.gif.webp",
+          "emojis": [
+            "❤️",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "9_XLYApprove.gif.webp",
+          "emojis": [
+            "🤣",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9_XLYThinking.gif.webp",
+          "emojis": [
+            "👍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "9_XLYPuzzled.gif.webp",
+          "emojis": [
+            "👍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "9_XLYNoted.gif.webp",
+          "emojis": [
+            "😂",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "9_YouhuFall.gif.webp",
+          "emojis": [
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "9_YouhuHAHA.gif.webp",
+          "emojis": [
+            "👍",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "9_YouhuSUS.gif.webp",
+          "emojis": [
+            "👍",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "9_YouhuBlep.gif.webp",
+          "emojis": [
+            "😊",
+            "🙏"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Wuthering Waves - Pack 10",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "10_CarlottaGun.gif.webp",
+          "emojis": [
+            "❤️",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "10_CarlottaGotcha.gif.webp",
+          "emojis": [
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "10_CarlottaHeya.gif.webp",
+          "emojis": [
+            "❤️",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "10_CarlottaTea.gif.webp",
+          "emojis": [
+            "👍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "10_CamellyaPeek.gif.webp",
+          "emojis": [
+            "🙏",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10_CamellyaAra.gif.webp",
+          "emojis": [
+            "🤣",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "10_CamellyaSalute.gif.webp",
+          "emojis": [
+            "👍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "10_CamellyaEvilSmile.gif.webp",
+          "emojis": [
+            "😊",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "10_LumiSleep.gif.webp",
+          "emojis": [
+            "❤️",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "10_LumiNod.gif.webp",
+          "emojis": [
+            "🥰",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "10_LumiRun.gif.webp",
+          "emojis": [
+            "😭",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "10_LumiDeliver.gif.webp",
+          "emojis": [
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "10_RocciaOTW.gif.webp",
+          "emojis": [
+            "😭",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "10_RocciaSearching.gif.webp",
+          "emojis": [
+            "😊",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "10_RocciaLurk.gif.webp",
+          "emojis": [
+            "😭",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "10_RocciaBow.gif.webp",
+          "emojis": [
+            "🤣",
+            "😭"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Wuthering Waves - Pack 11",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "11_Phoebe_Sticker_Slice_of_Life_09_01.gif.webp",
+          "emojis": [
+            "😘",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "11_Phoebe_Sticker_Slice_of_Life_09_02.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "11_Phoebe_Sticker_Slice_of_Life_09_03.gif.webp",
+          "emojis": [
+            "😭",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "11_Phoebe_Sticker_Slice_of_Life_09_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "11_Brant_Sticker_Slice_of_Life_09_01.gif.webp",
+          "emojis": [
+            "🤣",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "11_Brant_Sticker_Slice_of_Life_09_02.gif.webp",
+          "emojis": [
+            "🙏",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "11_Brant_Sticker_Slice_of_Life_09_03.gif.webp",
+          "emojis": [
+            "😊",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "11_Brant_Sticker_Slice_of_Life_09_04.gif.webp",
+          "emojis": [
+            "😘",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "11_Cantarella_Sticker_Slice_of_Life_09_01.gif.webp",
+          "emojis": [
+            "🤣",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "11_Cantarella_Sticker_Slice_of_Life_09_02.gif.webp",
+          "emojis": [
+            "👍",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "11_Cantarella_Sticker_Slice_of_Life_09_03.gif.webp",
+          "emojis": [
+            "🙏",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "11_Cantarella_Sticker_Slice_of_Life_09_04.gif.webp",
+          "emojis": [
+            "😊",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "11_Zani_Sticker_Slice_of_Life_09_01.gif.webp",
+          "emojis": [
+            "😭",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "11_Zani_Sticker_Slice_of_Life_09_02.gif.webp",
+          "emojis": [
+            "😍",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "11_Zani_Sticker_Slice_of_Life_09_03.gif.webp",
+          "emojis": [
+            "🙏",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "11_Zani_Sticker_Slice_of_Life_09_04.gif.webp",
+          "emojis": [
+            "🤣",
+            "👍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Wuthering Waves - Pack 12",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "12_Cartethyia_Sticker_Slice_of_Life_10_01.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "12_Cartethyia_Sticker_Slice_of_Life_10_02.gif.webp",
+          "emojis": [
+            "🤣",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "12_Cartethyia_Sticker_Slice_of_Life_10_03.gif.webp",
+          "emojis": [
+            "😊",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "12_Cartethyia_Sticker_Slice_of_Life_10_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "12_Ciaccona_Sticker_Slice_of_Life_10_01.gif.webp",
+          "emojis": [
+            "😍",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "12_Ciaccona_Sticker_Slice_of_Life_10_02.gif.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "12_Ciaccona_Sticker_Slice_of_Life_10_03.gif.webp",
+          "emojis": [
+            "🤣",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "12_Ciaccona_Sticker_Slice_of_Life_10_04.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "12_Phrolova_Sticker_Slice_of_Life_10_01.gif.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "12_Phrolova_Sticker_Slice_of_Life_10_02.gif.webp",
+          "emojis": [
+            "🙏",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "12_Phrolova_Sticker_Slice_of_Life_10_03.gif.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "12_Phrolova_Sticker_Slice_of_Life_10_04.gif.webp",
+          "emojis": [
+            "😊",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "12_Lupa_Sticker_Slice_of_Life_10_01.gif.webp",
+          "emojis": [
+            "😂",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "12_Lupa_Sticker_Slice_of_Life_10_02.gif.webp",
+          "emojis": [
+            "😘",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "12_Lupa_Sticker_Slice_of_Life_10_03.gif.webp",
+          "emojis": [
+            "❤️",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "12_Lupa_Sticker_Slice_of_Life_10_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "👍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Wuthering Waves - Pack 13",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "13_Augusta_Sticker_Slice_of_Life_11_01.gif.webp",
+          "emojis": [
+            "😊",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "13_Augusta_Sticker_Slice_of_Life_11_02.gif.webp",
+          "emojis": [
+            "🥰",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "13_Augusta_Sticker_Slice_of_Life_11_03.gif.webp",
+          "emojis": [
+            "🙏",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "13_Augusta_Sticker_Slice_of_Life_11_04.gif.webp",
+          "emojis": [
+            "😂",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "13_Iuno_Sticker_Slice_of_Life_11_01.gif.webp",
+          "emojis": [
+            "😭",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "13_Iuno_Sticker_Slice_of_Life_11_02.gif.webp",
+          "emojis": [
+            "😭",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "13_Iuno_Sticker_Slice_of_Life_11_03.gif.webp",
+          "emojis": [
+            "👍",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "13_Iuno_Sticker_Slice_of_Life_11_04.gif.webp",
+          "emojis": [
+            "🥰",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "13_Galbrena_Sticker_Slice_of_Life_11_01.gif.webp",
+          "emojis": [
+            "🤣",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "13_Galbrena_Sticker_Slice_of_Life_11_02.gif.webp",
+          "emojis": [
+            "😭",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "13_Galbrena_Sticker_Slice_of_Life_11_03.gif.webp",
+          "emojis": [
+            "😍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "13_Galbrena_Sticker_Slice_of_Life_11_04.gif.webp",
+          "emojis": [
+            "😊",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "13_Qiuyuan_Sticker_Slice_of_Life_11_01.gif.webp",
+          "emojis": [
+            "😘",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "13_Qiuyuan_Sticker_Slice_of_Life_11_02.gif.webp",
+          "emojis": [
+            "🥰",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "13_Qiuyuan_Sticker_Slice_of_Life_11_03.gif.webp",
+          "emojis": [
+            "😭",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "13_Qiuyuan_Sticker_Slice_of_Life_11_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "😍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Wuthering Waves - Pack 14",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "14_Chisa_Sticker_Slice_of_Life_12_01.gif.webp",
+          "emojis": [
+            "😊",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14_Chisa_Sticker_Slice_of_Life_12_02.gif.webp",
+          "emojis": [
+            "👍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "14_Chisa_Sticker_Slice_of_Life_12_03.gif.webp",
+          "emojis": [
+            "🤣",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "14_Chisa_Sticker_Slice_of_Life_12_04.gif.webp",
+          "emojis": [
+            "❤️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "14_Buling_Sticker_Slice_of_Life_12_01.gif.webp",
+          "emojis": [
+            "❤️",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "14_Buling_Sticker_Slice_of_Life_12_02.gif.webp",
+          "emojis": [
+            "😘",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "14_Buling_Sticker_Slice_of_Life_12_03.gif.webp",
+          "emojis": [
+            "😂",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "14_Buling_Sticker_Slice_of_Life_12_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "14_Lynae_Sticker_Slice_of_Life_12_01.gif.webp",
+          "emojis": [
+            "😍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "14_Lynae_Sticker_Slice_of_Life_12_02.gif.webp",
+          "emojis": [
+            "😍",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "14_Lynae_Sticker_Slice_of_Life_12_03.gif.webp",
+          "emojis": [
+            "😭",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "14_Lynae_Sticker_Slice_of_Life_12_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "14_Mornye_Sticker_Slice_of_Life_12_01.gif.webp",
+          "emojis": [
+            "❤️",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "14_Mornye_Sticker_Slice_of_Life_12_02.gif.webp",
+          "emojis": [
+            "🥰",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "14_Mornye_Sticker_Slice_of_Life_12_03.gif.webp",
+          "emojis": [
+            "😭",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14_Mornye_Sticker_Slice_of_Life_12_04.gif.webp",
+          "emojis": [
+            "😂",
+            "👍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Wuthering Waves - Pack 15",
+      "publisher": "Kuro Games",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "https://wutheringwaves.fandom.com/wiki/Slice_of_Life",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "15_Aemeath_Sticker_Slice_of_Life_13_01.gif.webp",
+          "emojis": [
+            "🤣",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "15_Aemeath_Sticker_Slice_of_Life_13_02.gif.webp",
+          "emojis": [
+            "🙏",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "15_Aemeath_Sticker_Slice_of_Life_13_03.gif.webp",
+          "emojis": [
+            "😂",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "15_Aemeath_Sticker_Slice_of_Life_13_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "15_Luuk_Herssen_Sticker_Slice_of_Life_13_01.gif.webp",
+          "emojis": [
+            "😍",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "15_Luuk_Herssen_Sticker_Slice_of_Life_13_02.gif.webp",
+          "emojis": [
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "15_Luuk_Herssen_Sticker_Slice_of_Life_13_03.gif.webp",
+          "emojis": [
+            "😂",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "15_Luuk_Herssen_Sticker_Slice_of_Life_13_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "15_Sigrika_Sticker_Slice_of_Life_13_01.gif.webp",
+          "emojis": [
+            "🙏",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "15_Sigrika_Sticker_Slice_of_Life_13_02.gif.webp",
+          "emojis": [
+            "😊",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "15_Sigrika_Sticker_Slice_of_Life_13_03.gif.webp",
+          "emojis": [
+            "😍",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "15_Sigrika_Sticker_Slice_of_Life_13_04.gif.webp",
+          "emojis": [
+            "😍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "15_Hiyuki_Sticker_Slice_of_Life_13_01.gif.webp",
+          "emojis": [
+            "😂",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "15_Hiyuki_Sticker_Slice_of_Life_13_02.gif.webp",
+          "emojis": [
+            "👍",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "15_Hiyuki_Sticker_Slice_of_Life_13_03.gif.webp",
+          "emojis": [
+            "❤️",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "15_Hiyuki_Sticker_Slice_of_Life_13_04.gif.webp",
+          "emojis": [
+            "🙏",
+            "😊"
           ]
         }
       ]
     }
   ]
 }
-
